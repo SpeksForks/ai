@@ -98,7 +98,7 @@ function out($a) {
 </div>
 
 <button type="submit" class="btn btn-default btn-lg" value="submit" name="submit"> 
-<span class="glyphicon glyphicon-ok" aria-hidden="true">Inteact</span>
+<span class="glyphicon glyphicon-ok" aria-hidden="true">Interact</span>
 </button>
 
 </form>
